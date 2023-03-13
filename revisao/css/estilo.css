@@ -1,0 +1,51 @@
+body{
+	font-family: arial;
+}
+a{
+	text-decoration: none;
+}
+
+.azul{
+	color: #fff;
+	background: blue;
+}
+
+
+
+.azul: hover{
+	border-color: blue;
+	background: #00bfff;
+
+}
+
+
+.amarelo{
+	background: yellow;
+
+}
+
+.amarelo: hover{
+	border-color: yellow;
+	background: #f0e68c;
+
+}
+
+
+
+.vermelho{
+	color: #fff;
+	background: red;
+
+}
+
+
+.vermelho: hover{
+	border-color: red;
+	background: #fa8072;
+
+}
+
+.botao{
+	padding: 10px 20px 10px 20px;
+	border-radius: 5px;
+}
